@@ -1,0 +1,5 @@
+-The system shall provide a search bar to find existing question threads by keywords.   
+
+-The system shall send an email to the registered user when someone answers the question they posted. The email contains the asked question and the response.   
+
+-The system shall provide a log-in area where users can log-in or create an account using their email, password and username.   
