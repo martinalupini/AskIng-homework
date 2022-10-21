@@ -1,0 +1,5 @@
+-As a user, I want to post a question about a specific course and a certain professor of that course, so that someone can respond to me and remove my doubt. 
+
+-As a registered user, I want to receive an email that notifies me when someone responds to the question I posted, so that I don’t have to check the software continuously waiting for a response. In the email I want the asked question and the response. 
+
+-As a moderator, I want to remove a post, so that the forum doesn’t contain violence, racism, sexism, ableism and swearing. 
